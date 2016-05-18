@@ -6,18 +6,7 @@
 Add this to `composer.json`:
 
 ```
-"repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/sergiu-paraschiv/PHPCI-istanbul"
-    }
-],
-
-"require": {
-    ...
-
-    "sergiu-paraschiv/PHPCI-mocha": "~1.2"
-},
+https://github.com/sergiu-paraschiv/phpci-istanbul
 ```
 
 Then the task to `phpci.yml`:
