@@ -6,7 +6,7 @@
 Add this to `composer.json`:
 
 ```
-https://github.com/sergiu-paraschiv/phpci-istanbul
+composer require sergiu-paraschiv/phpci-istanbul
 ```
 
 Then the task to `phpci.yml`:
